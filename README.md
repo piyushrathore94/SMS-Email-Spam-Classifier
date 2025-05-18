@@ -1,8 +1,8 @@
 ---
 
-# 📩 SMS-EMAIL Spam Classifier
+# 🛡️ SMS & Email Spam Classifier
 
-This project is a simple and effective **Spam Classifier** for SMS and Email messages using **Natural Language Processing (NLP)** and **Machine Learning (ML)**. It uses a Multinomial Naive Bayes model trained on preprocessed message data and provides predictions via a clean and responsive **Streamlit** web app.
+A powerful yet simple machine learning application that classifies SMS and email messages as **Spam** or **Not Spam**. Built using **Natural Language Processing (NLP)** and **Multinomial Naive Bayes**, the project features a clean and interactive **Streamlit** web app.
 
 ---
 
@@ -126,6 +126,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 🙌 Acknowledgements
+Streamlit for the web UI
+
+Scikit-learn for machine learning tools
+
+NLTK for natural language processing
+
+---
+## 👨‍💻 Author
+
+Piyush Rathore
 
 ![image](https://github.com/user-attachments/assets/b30f08dc-fa4c-40de-9961-e8f3e788f5ba)
 ![image](https://github.com/user-attachments/assets/a4dbe209-4979-4bc6-966c-48d3307608cf)
