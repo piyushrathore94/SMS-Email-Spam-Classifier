@@ -34,7 +34,7 @@ Run the app locally using the instructions below and test out your own SMS or Em
 
 ```1. **Clone the repository**:
    bash
-   git clone https://github.com/Kanishk00551/SMS-EMAIL_Spam-Classifier.git
+   git clone https://github.com/piyushrathore94/SMS-EMAIL_Spam-Classifier.git
    cd SMS-EMAIL_Spam-Classifier
 
 
